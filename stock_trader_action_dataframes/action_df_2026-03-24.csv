@@ -1,0 +1,7 @@
+symbol,actions_unscaled,actions_scaled,action_label,current_price,qty,unrealized_pl,unrealized_plpc,sell_value,sell_proportion_shares,buy_proportion,purchase_funds_dollars
+AAPL,1.0,2000.0,buy,251.28,0,0,0,0.0,0.0,0.25,268.84999999999997
+AEO,-1.0,100.0,sell,16.505,4,10.46,0.18826,66.02,4.0,0.0,0.0
+AMZN,1.0,2000.0,buy,207.06,0,0,0,0.0,0.0,0.25,268.84999999999997
+MSFT,-1.0,100.0,sell,376.51,0,0,0,0.0,0.0,0.0,0.0
+NVDA,1.0,2000.0,buy,175.1,5,-2.29,-0.00261,0.0,0.0,0.25,268.84999999999997
+TSLA,1.0,2000.0,buy,384.16,0,0,0,0.0,0.0,0.25,268.84999999999997
